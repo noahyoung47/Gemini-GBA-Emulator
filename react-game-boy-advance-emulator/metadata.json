@@ -1,0 +1,6 @@
+{
+  "name": "React Game Boy Advance Emulator",
+  "description": "A web-based Game Boy Advance (GBA) emulator built with React and TypeScript. Upload and play your favorite classic GBA ROMs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
